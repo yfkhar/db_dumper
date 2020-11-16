@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{a tool to dump database}
   spec.description   = <<~DESCRIPTION
-  DB-dumper is a tool to dump database
-  support Mysql and Postgresql
+    DB-dumper is a tool to dump database
+    support Mysql and Postgresql
   DESCRIPTION
   spec.homepage      = "https://github.com/yfkhar/db_dumper".freeze
   spec.license       = "MIT"

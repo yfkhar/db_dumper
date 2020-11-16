@@ -6,6 +6,6 @@ gemspec
 gem "rake", "~> 12.0"
 
 group :development do
-  gem "coveralls"
+  gem "coveralls", require: false
   gem "rspec", "~> 3.0"
 end
